@@ -1,6 +1,14 @@
 # Sales
 
-**TODO: Add description**
+A simple sales module as an exercise to improve my elixir skills.
+
+### Assignment:
+
+#### Create an Elixir utility function that accepts sales deals as input, and calculates the totals for each day as an output.
+
+#### 1) Group deals per day (using the `closed_at` value) 
+#### 2) Calculate total amount sold for each day (using the `amount` value) 
+#### 3) Exclude sale deals closed on weekends
 
 ## Installation
 
